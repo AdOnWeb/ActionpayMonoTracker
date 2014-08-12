@@ -1,0 +1,6 @@
+Name: ODIN.ios
+Description: ODIN.ios
+Version: 0.1
+
+Requires: 
+Libs: -r:./ODIN.ios.dll

@@ -1,0 +1,6 @@
+Name: ODIN.android
+Description: ODIN.android
+Version: 0.1
+
+Requires: 
+Libs: -r:./ODIN.android.dll

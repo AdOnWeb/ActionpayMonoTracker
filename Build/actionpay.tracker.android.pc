@@ -1,0 +1,6 @@
+Name: Actionpay.Tracker.Android
+Description: Actionpay.Tracker.Android
+Version: 0.1
+
+Requires: 
+Libs: -r:./Actionpay.Tracker.Android.dll

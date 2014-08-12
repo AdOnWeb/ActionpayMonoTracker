@@ -1,0 +1,6 @@
+Name: MD5
+Description: MD5
+Version: 0.1
+
+Requires: 
+Libs: -r:./MD5.dll

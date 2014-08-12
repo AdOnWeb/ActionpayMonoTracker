@@ -1,0 +1,6 @@
+Name: JsonLight
+Description: JsonLight
+Version: 0.1
+
+Requires: 
+Libs: -r:./JsonLight.dll

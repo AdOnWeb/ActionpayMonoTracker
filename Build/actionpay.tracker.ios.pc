@@ -1,0 +1,6 @@
+Name: Actionpay.Tracker.IOS
+Description: Actionpay.Tracker.IOS
+Version: 0.1
+
+Requires: 
+Libs: -r:./Actionpay.Tracker.IOS.dll
